@@ -1,0 +1,5 @@
+#Ignored extensions
+*.md
+*.DS_Store
+*.fseventsd
+*.Trashes
